@@ -1,4 +1,4 @@
-module github.com/ghetzel/ratelimit
+module github.com/systemz/ratelimit
 
 go 1.13
 
